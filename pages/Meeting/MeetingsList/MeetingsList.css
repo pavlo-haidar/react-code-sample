@@ -1,0 +1,7 @@
+.meetings-list-date-divider::before, .meetings-list-date-divider::after {
+    content: '';
+    display: block;
+    border-bottom: 1px solid #c1c5cd;
+    height: 1px;
+    flex-grow: 1;
+}
